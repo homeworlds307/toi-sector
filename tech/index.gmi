@@ -6,7 +6,7 @@ I'll also be talking more about Gopher, Gemini, the smallnet (and why we NEED it
 
 => mycomps.gmi	My Current Machines
 
-Testing git.
+Testing git. Again. LOL
 
 -----
 => ..  Up
