@@ -2,7 +2,9 @@
 
 ## 2026-11-13
 
-Spent some painful time working to streamline my process for updating and editing this capsule. With a lot of help from Grok, actually. I now have a mirror of this capsule on GitHub, which allows me to edit it live and automatically commit the changes to the VPS upon .. well, commit. Pretty cool. Hopefully it all holds. It'll definitely keep me from being quite so fast to wipe the server for tinkering purposes. 🤣 It was only painful because I try to do as much of this on my phone (Pixel 9 Pro XL) attached to a 14 inch lapdock. I'm sure there's got to be a great app somewhere out there that lets you ssh into a server and cli everything, but I haven't found it yet. Working on it though.
+Spent some painful time working to streamline my process for updating and editing this capsule. With a lot of help from Grok, actually. I now have a mirror of this capsule on GitHub, which allows me to edit it live and automatically commit the changes to the VPS upon .. well, commit. Pretty cool. Hopefully it all holds. It'll definitely keep me from being quite so fast to wipe the server for tinkering purposes. 🤣 It was only painful because I try to do as much of this on my phone (Pixel 9 Pro XL) attached to a 14 inch lapdock. I'm sure there's got to be a great app somewhere out there that lets you ssh into a server and cli everything, but I haven't found it yet. Working on it though. Correction: Sometimes it helps just to remember all the built-in functionality that the system you are working on is capable of. So, the ssh issue is solved. 
+
+Anyway, I can't wait for the medicine I was taking (steriods for my foot/ankle) has worked out of my system. I think that is what's been dragging me down so much lately.  We'll see.
 
 -----
 => ..  Up
