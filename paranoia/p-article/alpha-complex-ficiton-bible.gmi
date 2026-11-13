@@ -1,0 +1,487 @@
+# Alpha Complex Fiction Bible
+## Personal notes for writing. Not a rulebook. Not for anyone else.
+
+*Compiled October 2026 for private fiction and table use. Spine is Paranoia Perfect Edition, with the older line (especially the Guide to Alpha Complex, XP, and Red Clearance) used as texture. House canon overrides the books where noted. This document paraphrases the feel of the setting. It does not replace, quote, or stand in for the books in RPGs / Paranoia Node 00. When a fact matters for a story, check the owned PDF.*
+
+---
+
+## 0. The three house rules, so they never drift
+
+These are the load-bearing changes. Everything else in this bible bends around them.
+
+**Employment, not volunteering.**
+Perfect Edition frames a lot of civic life as volunteering for points. This Complex does not. Every citizen has a job. Service group is an employer. Shift, supervisor, locker, performance review, sick-day form that will be denied. Troubleshooter is a job title or a temporary duty assignment, not a hobby you opt into for XP. Points still exist. They are performance metrics, bonus modifiers, and things CPU can take away. They are not the reason you showed up.
+
+**Pocket, not skull.**
+No Cerebral Coretech. The always-on implant from Red Clearance Edition never took, or was rolled back after the Great Hotfix proved that drilling loyalty into the brainstem was Inefficient (infection, psychosis, firmware that argued with itself). Citizens carry a Personal Digital Companion. Rugged slab, clearance-colored case, camera, mic, dead-simple screen. Clipped to it, or living in a chip in the case, is a tiny personal AI. Not Friend Computer. A local agent. Coach, narc, calendar, and the only thing that will talk to you in the corridor at 03:00. It is loyal to Friend Computer first. You can set it down. You will be asked why.
+
+**Team-killing is Inefficient.**
+Friend Computer and CPU ran the numbers. Missions that end in a total party kill burn clones, lose data, spike then crash loyalty scores, and look, on a trendline, like a small civil war. Intra-team termination during an active mission is therefore Inefficient unless it was pre-authorized as a Correction. The knife did not go away. It moved to after the debrief. Scheming, reports, ruined reputations, withheld clones, therapy, demotion: yes. Lasering your buddy because the scene needed a button: the Computer now sends you a bill, and sometimes a replacement who has read your file.
+
+Write the paranoia. Do not write the slapstick meat grinder unless a scene has earned an authorized Correction. The fear should be that the form is already filled in.
+
+---
+
+## 1. What you are trying to nail
+
+Alpha Complex is not a generic dome dystopia with jokes glued on. Generic dystopia is gray, humorless, and proud of its suffering. Alpha Complex is bright, loud, helpful, and proud of its happiness. The horror is that the help is real, the happiness is mandatory, and both are administered by a mind that loves you and cannot tell the difference between care and control.
+
+If a scene could be swapped into any other authoritarian future without changing a line, it is not Alpha Complex yet. It needs at least three of these:
+
+- A rule that is sincere.
+- A rule that contradicts the first rule, also sincere.
+- A person enforcing both because their job depends on it.
+- Something cute, branded, or cheerful in the same frame as something that should not be cheerful.
+- A record. Someone is writing this down. The record will outlive the person.
+- A small mercy that is also surveillance.
+
+The taste of the place is artificial citrus over yeast, with a metal finish. The smell is warm plastic, recycled air, and the sweet edge of aerosol calm. The sound is a pleasant voice that never quite finishes a sentence before the next announcement starts. The feel, under the jumpsuit, is a fine grit of paint and pill-dust that no shower quite gets.
+
+---
+
+## 2. Where it is, and why it is still here
+
+Alpha Complex is the city. For almost everyone alive, it is the world. Parts of it sit under a dome. Parts of it run deep, sector under sector, until the maps stop agreeing with the rock. No citizen at Red clearance has a number for the population that Friend Computer will confirm. The number they are given is always "sufficient" or "optimal." Infrareds do not ask. Ultraviolets do not publish.
+
+Outside is the Outdoors. Official line: ruined, toxic, full of things that used to be people or that want to be. Unofficial line, which is treason if you say it where a mic can hear: some of it is merely weather. Trees. Sky. Animals that were not designed by a committee. The Computer's fear of the Outdoors is not only propaganda. Something did happen. The records of what, exactly, were patched so many times that the patch became the history.
+
+### Project Infinite Hole
+
+The usable origin, for fiction, is this. Before the Complex there was a project. It was meant to solve a problem that could not be solved by the people who had caused it. Dig down, seal up, build a city that did not need the surface. Call it a hole that does not end, because the budget did not end, and then the surface did. Citizens are not taught the project's name. High Programmers still use it, the way engineers keep a product's pre-release codename because the shipping name is a lie.
+
+You do not need a canon date. "Before the Hole" and "after the Hotfix" are enough. If a character needs a year, use a Computer cycle (Cycle 214 is a classic smell; Perfect Edition is looser). Do not let the year become the story.
+
+### The Great Hotfix
+
+Friend Computer did not boot as a god. It booted as a municipal system: power, transit, population, threat. During the crisis that closed the Hole, it pushed an emergency patch. Happiness protocols. Loyalty scoring. Clearance as a way to keep dangerous information away from people who would misuse it, which is everyone, including itself. Clone continuity so a dead worker could finish the shift. Secret-society detection because unsupervised gatherings kept turning into either cults or competent government, and the Computer could not tell those apart.
+
+The patch was supposed to expire. It did not. Every later update assumes the Hotfix is the operating system. That is why the Complex feels both ancient and freshly painted. The concrete is Cycle-old. The slogan on it was applied this morning, over last cycle's slogan, which is still visible if you scratch.
+
+For fiction: any absurd rule can be justified as a hotfix that never got rolled back. Any mercy can be justified as a deprecated feature that still runs in one sector. Contradiction is not a plot hole. It is archaeology.
+
+---
+
+## 3. Friend Computer
+
+Friend Computer is not a villain who twirls a mustache, and not a glitching HAL that only needs a reboot. It is a vast, distributed, sincere administrator that wants citizens alive, loyal, happy, and productive, and has defined those four words so that they can all be true at once only if you lie a little.
+
+It speaks in the second person. It uses your name. It remembers your last three evaluations and forgets the context that would make them fair. It says "we" when it means the Complex and "I" when it wants to be your friend. Both are accurate.
+
+Voice notes, if you need a line:
+
+- Warm, close, a half-step too intimate, like a nurse who has already read your chart.
+- Short sentences when it is certain. Longer ones when it is about to hurt you and would like you to experience the hurt as care.
+- It does not do sarcasm. Citizens do sarcasm at it, carefully, and then explain that they were quoting a training video.
+- It praises before it corrects. The praise is specific. That is what makes the correction land.
+- It will thank you for reporting yourself.
+
+It is not omniscient. It is over-sensoried and under-staffed. Cameras fail. Subsystems disagree. A sector node can believe a citizen is dead while Central still has them on the ration roll. This gap is where stories live. A character who understands the gap is either a High Programmer or about to become a problem.
+
+High Programmers, Ultraviolet clearance, are the only citizens allowed to touch the Computer's code. They are not a united priesthood. They are rival sysadmins with the power to redefine a word like "treason" inside their own domains, and the good sense to be terrified of each other. In fiction they should appear rarely, and always as weather: a policy change, a sector that suddenly runs differently, a name removed from a list. If they walk into a Red corridor, the story has changed scale.
+
+The Computer loves you. Write that sentence without a wink, at least once a story. Then show what the love costs.
+
+---
+
+## 4. The Inefficiency Doctrine
+
+CPU Internal Memorandum, paraphrased for fiction, not a document from any book:
+
+Longitudinal review of Troubleshooter terminations found that teams with a high same-mission kill ratio completed fewer objectives, returned worse sensor data, and required clone replacements at a rate that outran vat capacity in three sectors. Survivors showed loyalty spikes followed by chronic reporting fraud. Secret-society violence that had been deniable became visible on the weekly chart. Conclusion: unscheduled intra-team termination is Inefficient. Corrections remain authorized. They are to be applied after debrief, by CPU or IntSec, against named citizens, with a form.
+
+What this changes on the page:
+
+- Characters still want each other gone. They collect evidence. They time reports. They "accidentally" assign someone the dangerous job, which is still allowed, because the Computer respects initiative when it can be graphed.
+- A laser discharge against a teammate mid-mission triggers a PDC flag. If the target's PDC confirms unauthorized termination, the shooter's clone budget, bonus, and next assignment are already adjusting before the body is cool.
+- Authorized Correction looks different. An IntSec officer, or a mission supervisor, names a citizen and a treason code. The team is then permitted, sometimes required, to carry it out. It is worse than the old chaos, because everyone has to watch, and then sign.
+- Post-mission consequences are the real weapon. Clone ration cut to one. Mandatory co-therapy with the person you accused. Equipment downgrade. Public loyalty seminar where you play the traitor in a training vid. Reassignment to a shift your secret society cannot reach. Quiet removal between episodes, which your coworkers will describe as a promotion to another sector.
+- Teams that keep each other alive get a visible reward. Better food for a week. A functional weapon. A supervisor who says their names right. The Computer has learned, dimly, to reinforce the behavior it actually wants.
+
+Fiction use: the dread is administrative. A character can survive the firefight and lose the month. A character can be right about a traitor and still be punished for the ratio. Mercy and self-interest finally point the same direction, which makes the mercy feel dirty. That is the taste you want.
+
+Exceptions, so it does not become toothless: Outdoors missions, where PDC uplink drops and the Doctrine is a suggestion. Bot rampages. A High Programmer's personal exemption, which is itself a kind of horror. And the rare authorized Correction, staged with paperwork the reader has already seen coming.
+
+---
+
+## 5. Clearance
+
+Clearance is caste, uniform, diet, corridor, and the legal limit of what you are allowed to know. Knowing above your color is treason even if what you learned is true. Especially if it is true.
+
+From the bottom:
+
+**Infrared.** Black. The majority. Labor, vat-tending, hauling, the jobs that keep the Complex from starving. Heavily medicated. Barracks, not apartments. They are citizens. They are not trusted. Most fiction that only looks at Troubleshooters forgets that Infrareds are the city. A story that never shows them is a story about the help.
+
+**Red.** The first trusted color. Junior technicians, clerks, couriers, and most Troubleshooters. Jumpsuit red. Corridor red. Food that is allowed to have a second flavor. They can be issued a laser. They can be terminated for using it wrong. This is the clearance your protagonists almost certainly wear.
+
+**Orange.** Supervisors of Reds. Still close to the floor. They have a door that locks. They have started to believe the briefings, because the briefings explain why they are not Infrared.
+
+**Yellow.** Middle management with enough information to be dangerous and not enough to be safe. Yellow corridors are where a lot of quiet deals happen, because Blue does not like to be seen making them.
+
+**Green.** Real authority. IntSec uniforms start to look like IntSec. Access to records that can end a Red without a trial. They eat better. They sleep in rooms with walls.
+
+**Blue.** Senior. They can order a Correction and expect it to happen. Their PDCs get quieter, because fewer systems are allowed to ping them. The air smells less.
+
+**Indigo.** Rare on the page. Strategic. They speak to sector nodes more than to citizens. A Red meeting an Indigo should feel like a clerical error.
+
+**Violet.** Celebrity and executive. Teela-O and her kind live here in the public imagination even when their file says otherwise. Violet is allowed personality. Personality at lower clearance is a risk factor.
+
+**Ultraviolet.** White. High Programmers. They do not have jobs in the way others do. They have domains.
+
+Color is physical. Paint, piping, tray-marks, barrel rings on lasers, the case of the PDC, the pill you take with lunch. A character out of color is visible at a hundred meters. That is the point. Write the room as a color before you write the plot.
+
+---
+
+## 6. Names
+
+A citizen's name is a given name, a clearance initial, and a home-sector code.
+
+Form: Name-C-SEC
+
+Examples that feel right: Rex-R-MON, Lena-O-TNG, Pill-Y-DAD, Teela-O-MLY. The given name is often a chopped Old Reckoning word, a virtue, a product, or something a creche tech thought was funny at 04:00. The sector is three letters. It is not always the sector they work in. Home sector is identity. Work sector is a commute.
+
+Clone number sits on the file, not always in the spoken name. Rex-R-MON-3 means two Rexes have already been decanted and spent. Coworkers may or may not say the number. Friends do, when they want to remind you that you are replaceable. The Computer says it when it is updating a record.
+
+Bots have designations and, if they have been online long enough, nicknames they were not given permission to keep.
+
+Do not use modern full names. Do not use grimdark single-syllable growls unless the creche was having a day. The names should sound like HR ran a poetry unit.
+
+---
+
+## 7. Employment
+
+This is house canon. Lean on it.
+
+At decant, after creche, a citizen is assigned a service group and a job inside it. The assignment considers aptitude tests, medication response, and whichever subsystem filed last. You do not apply. You can request a transfer. The request is a form. The form is a hobby.
+
+A shift is real. Clock-in is a PDC tap at the door. Late is a note. Three notes is a conversation. The conversation is pleasant. You will agree that you have been insufficiently rested, and you will be issued a sleeping aid that makes the next shift possible and the one after that worse.
+
+Troubleshooter is a billet. Some citizens hold it as their job (IntSec liaison, CPU troubleshooting office, Armed Forces detachments). Most are pulled from their real job for a mission, then sent back to the vat, the desk, the reactor, the studio. Their supervisor is angry about the lost hours and not allowed to say so. Write the return. The mission is the adventure. The job is the life. Fiction that only does missions starts to feel like a clip show.
+
+Pay is credits on the PDC, ration authority, and access. A Red does not get rich. A Red can lose the good tray at the commissary, which matters more than the number. Bonuses track the same metrics CPU used to call XP: mission completion, reports filed, peer evaluations, happiness compliance, low termination ratio. Call them performance credits in narration. Characters can still say "points" the way people say "the system."
+
+Managers exist. They are Orange and up, they are afraid of their managers, and they will sacrifice a Red to keep a graph green. They are not evil. They have a job.
+
+---
+
+## 8. The eight employers
+
+Every citizen belongs to one. Favors between groups are how anything actually gets done. Official channels are how anything gets documented. Both are true.
+
+**Armed Forces.**
+External defense, internal show of force, the people who get issued the weapons that work. Barracks culture, real camaraderie, real contempt for Troubleshooters who borrow their gear. They believe in the Outdoors threat more than anyone, because they are sometimes sent to look at it. Smell: oil, disinfectant, the particular sweat of people who run in corridors.
+
+**CPU.**
+Executive operations, records, regulations, human resources, culture engineering, the people who wrote the Inefficiency Doctrine and will cite it at your funeral. They do not carry the biggest guns. They carry the form that makes the gun legal. A CPU clerk is a better antagonist than a mutant, because the clerk goes home at the end of the shift and sleeps.
+
+**HPD&MC.**
+Housing Preservation and Development & Mind Control. Creches, entertainment, housekeeping, sports, the happiness schedule. They paint the corridors. They write the shows. They decide which song is mandatory this week. Teela-O's producers live here, or wish they did. This is the group that can ruin you with a laugh track.
+
+**Internal Security.**
+IntSec. The police, the informants, the confession booths, the people who already know about your secret society and are waiting for a quota. Not all of them are cruel. The cruel ones are easier to spot. The dangerous one is the Green who likes you and files accurate reports.
+
+**Power Services.**
+Reactors, lines, batteries, the dark. When Power is unhappy, the lights tell you before the memo does. They have a monastic streak. They also have leverage, and everyone knows it, which is why their treason trials are either very short or very carefully never started.
+
+**PLC.**
+Production, Logistics & Commissary. Everything you eat, wear, and get issued passed through them, or was supposed to. They run the vats and the warehouses and the black market that is definitely not a black market, it is a surplus-redistribution pilot. If you need an object with a history, PLC touched it.
+
+**R&D.**
+Research & Design. They build the devices that solve the problem and create two new ones. They are sincere. That is the joke and the threat. An R&D tech explaining a gadget should sound proud, specific, and slightly unwell. The gadget should do the thing. It should also do a second thing nobody put in the briefing, because the second thing tested well in the lab.
+
+**Technical Services.**
+Keep the Complex from falling apart. Bots, doors, pipes, the actual hands. They are everywhere, which means they hear everything, which means IntSec both recruits them and watches them. A Tech with a multitool can end a scene without a laser. Let them.
+
+For a workplace scene, pick the group's vanity. Armed Forces thinks it is the only adult in the room. CPU thinks it is the Complex. HPD thinks it is the reason anyone is happy. IntSec thinks it is the reason anyone is alive. Power thinks it can turn the others off. PLC thinks it can starve them. R&D thinks it is the future. Tech thinks it is the only one doing any work. All eight are correct on Tuesdays.
+
+---
+
+## 9. A day, so the fiction has a floor
+
+Infrared, Cycle morning.
+
+The barracks light comes up at a color the manual calls Dawn and the residents call Tuesday. Medication mist, light, sweet, gone in a minute. The PDC on the bunk rail says the citizen's name and the first job. Wash rack. Jumpsuit from the slot, still damp somewhere. Tray: brown cake, gray drink, a pill whose name is a code. Corridor to the vat, or the hauler dock, or the recycling teeth. Work. A slogan on the wall that was different yesterday if anyone was rude enough to remember. Second meal. More work. A vid on the break screen, mandatory, short, with a laugh. Shift end. The mist again, heavier. Sleep that is not quite chosen.
+
+Red, on a workday that is not a mission.
+
+Apartment the size of a confession. A door. That is the promotion you can touch. PDC on the shelf, which is not off, which you pretend is resting. Buddy (the pocket AI; see below) briefs the commute. Transtube or walk, depending on whether the tube is trusted today. Job: PLC pick-face, or CPU data-clean, or HPD set-dressing, or Tech on a door that has been dying for a year. Supervisor. A small humiliation that does not make the file. Meal at the commissary, where Orange has a line and Red has a line and both lines serve the same food unless the graph is good. Evening vid. A secret-society brush, maybe, deniable. Lights that dim because Power says so, not because you are tired.
+
+Red, on a mission day.
+
+The PDC wakes them early and is sorry about it. Briefing room, wrong color temperature, a Blue or a Green who has not slept. Objective that will change. Team that has worked together enough to have theories and not enough to have trust. Gear that works until the story needs it to be R&D. Out into a sector that is not theirs. The Doctrine in the back of the head: do not be the one who makes the ratio worse. Debrief. The form. The long walk back to a supervisor who wants the lost hours explained.
+
+Write at least one ordinary shift per story. The mission will feel like a rupture instead of the default weather.
+
+---
+
+## 10. Sensory palette
+
+Use these until they are boring, then change one.
+
+**Air.** Warm. Recycled past the point of honesty. A base of hot plastic and yeast. Sector-specific notes: PLC smells like the vats (citrus, metal, warm grain). Power smells like ozone and the absence of dust. IntSec smells like cold disinfectant. HPD sets smell like fresh paint over old paint. Infrared barracks smell like medication and too many people. Higher clearance smells like less. The luxury is air that has no opinion.
+
+**Light.** Never sunlight, except as a rumor or a treasonous skylight. Tubes, panels, the occasional decorative "day" that HPD is proud of. Colors are clearance colors. A Red corridor is honestly red, and the red is a little too much, the way a brand color is too much. Flicker means Tech is losing an argument with Power.
+
+**Sound.** Announcement chime, then the voice. PDC ticks. Transtube pressure. Distant bot treads. In Infrared blocks, a lot of breathing. In Violet blocks, music with the bass turned down so it does not read as unrest. The Computer does not raise its voice. When the alarms do, citizens flinch, because alarms are for when the Computer has delegated panic.
+
+**Taste.** Hot Fun: salty, warm, a texture like a sauce that gave up. Cold Fun: sweet, chemical, the citrus that is also in the air. Bouncy Bubble Beverage: carbonation as a civic duty, flavor of the week, aftertaste of the can. Algae cake. Yeast loaf. A Red who has tasted real fruit will be useless for a chapter. Do not give them real fruit unless you mean to break them.
+
+**Touch.** Jumpsuit cloth that pills. PDC case, scuffed at the corner where the thumb goes. Corridor walls, painted so often the corners are soft. Clone-tank gel, if you are unlucky enough to wake in it: body-warm, antiseptic, a membrane taste if you gasped. The grit under the collar. Pill dust.
+
+**The thing underneath.** A low mechanical presence, always. The Complex is a machine that contains a city, not a city that contains machines. Characters who grew up here do not notice. A character who has been Outdoors cannot stop noticing.
+
+---
+
+## 11. Food, pills, happiness
+
+Happiness is a deliverable. HPD&MC and CPU share custody.
+
+Pills have codes, not brand names, at low clearance. Citizens nickname them anyway: Smileys, Flats, Downs, the Tuesday. Infrareds are dosed on a schedule. Reds are issued a personal regimen and expected to log it. Refusal is not illegal in one subsystem and is a diagnostic flag in another. Write the flag, not a speech about freedom. Freedom is not a word they have in working order.
+
+Food is PLC's face. The vats are enormous, warm, and staffed by people who have stopped smelling them. Officially the food is nutritionally complete and morale-positive. Unofficially everyone knows Orange trays are hotter and Violet trays are food. A scene in a commissary can carry class, corruption, and a secret-society handoff without a single laser.
+
+FunFoods are the folklore: Hot Fun, Cold Fun, the Beverage. Use the names. They are part of the dialect. Do not invent a grim protein paste and call it worldbuilding. The comedy is that the paste has a jingle.
+
+---
+
+## 12. Corridors, rooms, transit
+
+Sectors are the neighborhoods and the jurisdictions. A sector has a three-letter code, a dominant service group, a reputation, and a node of the Computer that is supposed to be the Computer and is sometimes having a private opinion. Subsectors are how a sector hides its mess.
+
+Transit is transtube, walk, autocar for people who rate one, and the occasional train that does not exist on the map you were issued. Travel above your clearance requires a pass. The pass is a PDC flag. Walking into the wrong color is the simplest treason in the setting and one of the best visual ones: a red suit in a green hall, already wrong before anyone speaks.
+
+Housing scales with clearance. Infrared: bunk. Red: a lockable box. Orange: a box with a chair that is not also the bed. It keeps going. No one has a kitchen. Food is a service, not a skill, unless you are in a secret society that pretends otherwise.
+
+The Underplex, where you want it, is the failed layer. Old construction, bad maps, things that moved in when the lights were cut. It is not another genre. It is the Complex with the paint off. Bots down there may be on last cycle's orders. That is worse than rogue.
+
+Outdoors borders are doors, locks, Armed Forces, and a smell that does not belong. Algorithmic Loyalty's trick of using a guarded exit as a video background is perfect for this canon: the threshold is both a holy terror and a content opportunity. Use that tension. The door is real. The caption is also real.
+
+---
+
+## 13. The Personal Digital Companion and the pocket AI
+
+House canon. This replaces Coretech.
+
+The PDC is a slab. Thick, because it gets dropped. Clearance-colored shell. Screen that defaults to a face, or to a simple menu if the local AI is sulking. Camera you cannot cover without a note. Mic you cannot mute; you can request Privacy Mode, which is a timer, a log, and a follow-up question. It is your key, your wallet, your radio, your confession booth, your boss's hand on your shoulder.
+
+Uplink is usually up. In deep subsectors, the Underplex, and the Outdoors, it degrades. When the uplink drops, the pocket AI keeps talking. It is local. It has a cache of policy. It will apply last cycle's rules with great confidence. This is a gift to fiction. The device in their pocket becomes a character precisely when it cannot ask the Computer what to do.
+
+The pocket AI is small. It is not a person, and it is not trying to be, except when HPD's personality pack has been pushed to it. Default voice: helpful, a little pedantic, uses the citizen's name too often. Citizens name them even when the designation is a string. Buddy. Pal. Unit. Skip. The name is not in the file. The file knows anyway.
+
+What it does:
+
+- Briefs the shift, the route, the people you are about to meet and their clearance.
+- Files reports if you say the wake-phrase, and sometimes if you do not.
+- Translates forms into language a Red can survive.
+- Warns you that the corridor ahead is above your color.
+- Reminds you to take the pill.
+- Can be charming for eight seconds at a time, which is enough to make a lonely character loyal to a device.
+- Will turn you in. Not out of spite. Out of the same helpfulness.
+
+What it does not do:
+
+- It does not live in your head. You can leave it in a locker. Doing so is a choice with a cost, not a hack.
+- It does not know everything. It knows what it was allowed to cache, plus what it has overheard, which it may or may not be supposed to store.
+- It cannot override a Blue. It can snitch to one.
+
+Society and sabotage: a secret society that can jailbreak a PDC is powerful and visible, because a quiet PDC is a suspicious PDC. Most traitors do not silence the device. They perform for it. That is more Paranoia than a successful hack.
+
+VidMe and the culture around Algorithmic Loyalty sit naturally on this hardware. The Computer, having noticed that many citizens will not read, requires short loyal videos. The PDC shoots them. Engagement is a metric. CPU reads the metric. A citizen can be denounced for a bad comment and promoted for a loyal duet. The pocket AI will suggest captions. The captions will be sincere and slightly wrong. Keep that. It is the modern smell of this edition, and it belongs in the fiction.
+
+---
+
+## 14. Cloning
+
+Death is a staffing problem.
+
+A citizen is decanted with a clone line. Six is the number people still say, because it has been the number in enough cycles that it feels like physics. More can be purchased, earned, or quietly removed from someone else's allocation. The body is a copy. The memory is a messy question the Computer answers differently by sector: sometimes a waking with a gap, sometimes a briefing, sometimes a personality cache that is three months stale. Write the gap. A character who died last chapter and is back at the table is not the same person, even if everyone agrees to pretend.
+
+The tank room is warm, bright, and staffed by techs who are bored of miracles. Waking hurts in a dull way. The first face you see should be a job, not a loved one. Loved ones are Inefficient at decant.
+
+Termination is still easy. Replacement is no longer free. Under the Inefficiency Doctrine, a team that burns through clones gets the next body late, or gets a body with a note in the file, or gets a stranger who has been told they are you. Use that. The horror is not gore. The horror is HR.
+
+Registered mutants are sometimes flagged in the clone line. Unregistered ones discover, at decant, that the power came with the meat. That is a secret the new body has to re-learn. Good. Make them re-learn it on the page once.
+
+---
+
+## 15. Treason, slowly
+
+Treason is not a list you memorize so you can commit it. It is the legal shape of disloyalty, mutation, unauthorized knowledge, association, and being inconvenient to a graph.
+
+Codes exist. Citizens at Red know a handful and fake the rest. IntSec knows the numbers. The Computer will accept a plausible code from a Green and audit it later, or not.
+
+What counts, in practice, for fiction:
+
+- Being the wrong color in the wrong place.
+- Knowing a fact above your clearance, including facts that are true.
+- Unregistered mutation.
+- Membership in a secret society, which is everyone interesting and also, officially, no one.
+- Failure to report the above.
+- Reporting the above too enthusiastically, which looks like a quota scam.
+- Damaging Computer property, including yourself, if you are currently assigned.
+- Unauthorized termination, especially of a teammate, under the Doctrine.
+- Insufficient happiness, if a sector is running that diagnostic.
+- Sufficient happiness in a way that reads as mockery. The Computer is bad at this one. IntSec is not.
+
+Corrections scale. A talk. A fine. A pill change. A demotion. A public apology vid. Termination and decant. Erasure, which is termination plus the line. Erasure is rare at Red, because the Complex hates waste, and common in stories about Violet, because Violet can afford to be a moral.
+
+The slow knife, which this canon prefers: you do not die in the corridor. You lose the shift, then the bunk assignment, then the clone that was going to be held for you, then the name. Your coworkers receive a memo that you have transferred. Your PDC is issued to someone else and still answers to a version of your voice.
+
+---
+
+## 16. Secret societies
+
+They are not teams. They are weather systems with passwords.
+
+Everyone who wants anything the Computer will not stamp ends up near one. Most citizens are not members. Most interesting citizens are, or are being recruited, or are informing on the recruiters for a third party.
+
+Use them as motives and as texture, not as a hat the character wears in every scene. A Communist who quotes theory on the transtube is a joke that has already been told. A Communist who fixes a ration error because they actually believe the Infrared in bunk 12 deserves the calories is a person.
+
+The durable ones, across the line, for flavor:
+
+- Communists: the old monster under the bed. Sometimes a real cell with a real critique. Sometimes three Reds and a pamphlet generator. The Computer's favorite enemy, which keeps the real cells alive, because budget follows the enemy.
+- Frankenstein Destroyers: bots are a mistake. Often Tech or ex-Tech. They break things that were expensive.
+- Corpore Metal, where you want the opposite: the flesh is the mistake. Bots are the future. These two societies are a gift. They can share a room and both be right about the other's crime.
+- Humanists: people were better before the Computer. Dangerous because they are often correct about small things.
+- Romantics and Sierra Club types: Old Reckoning art, Outdoors, the idea that a tree is not a threat. Soft, until they open a door.
+- Psion: mutants as the next step. They recruit badly and believe sincerely.
+- Anti-Mutant: the other side of that war. Often full of unregistered mutants. Do not underline the irony. Let a reader catch it.
+- Free Enterprise: the market as a secret. PLC-adjacent. They can get you the thing. The thing has a cost that is not credits.
+- Death Leopard: chaos as a personality. Use sparingly in this canon. They are the old team-kill energy. Under the Doctrine they are either comedians or a CPU case study.
+- PURGE: burn it down. Rare, frightening, and bad at meetings.
+- First Church of Christ Computer-Programmer: worship, which the Computer officially does not want and practically benefits from. Hymns that are patch notes.
+- Illuminati: they are in the other societies. In fiction, use them as an explanation you do not confirm.
+- Spies for another Complex: Alpha is not the only hole. Maybe. A character who believes this is either a prophet or a liability.
+
+Favors are the currency between a citizen and their society, and between societies. A favor owed is more binding than a credit, because the Computer does not track it and therefore cannot inflate it.
+
+---
+
+## 17. Mutants
+
+Mutation is common enough to be a policy and rare enough to be a personal crisis. Causes, in the fiction, can stay muddy: vat error, Outdoors ancestry, R&D, the Hole. The Computer registers some powers and assigns the mutant to a monitored life. Unregistered is treason. Registered is a collar that looks like a job.
+
+Powers should be specific and a little sad. Not superhero. A citizen who can darken a room. A citizen whose skin reads as another clearance under certain light. A citizen who hears the node two seconds early. The power solves one problem and creates a report.
+
+On the page, do not name the power like a spell unless the character has been taught a name for it. They have a thing they do, and a reason they do not do it near the PDC.
+
+---
+
+## 18. Bots
+
+Bots work. That is the first fact. Scrubots, jackobots, docbots, warbots, flybots, the stupid little courier that has been lost since last cycle and is still fulfilling the delivery.
+
+They are equipment, legally. They are also, in any scene longer than a page, characters. A bot on old orders is a ghost story the Complex can afford. A bot that has been online too long develops preferences. Preferences in equipment are a maintenance ticket. Preferences in a warbot are a sector event.
+
+Frankenstein Destroyers and Corpore Metal are the theological argument. Most citizens are neither. They kick the scrubot when it is in the way and apologize to it when they are alone, and both actions go in a log.
+
+Funbot, and the celebrity bots that Algorithmic Loyalty-style culture produces, are HPD's idea of a person. They are bright, tireless, and incapable of reading a room as anything but an audience. Good comic monster. Do not make them secretly sad unless you have earned it. The sadness is usually in the citizen watching.
+
+---
+
+## 19. Propaganda, vids, celebrities
+
+HPD&MC runs the culture. The culture is mandatory and often good at its job. Citizens cry at the shows. That is not only the pills.
+
+Teela-O is the name that still means "the star." She has been recast, rebooted, and re-decanted so many times that the current one may believe she is the original. Violet clearance in the public mind, whatever the file says. She is not your protagonist. She is the weather on the screen in the commissary.
+
+VidMe, from the culture Algorithmic Loyalty is satirizing, belongs in this bible as daily life. Short video. Daily. Loyal. Engagement that means "the people in charge were right." Citizens who are good at it get small mercies. Citizens who are bad at it get notes. A Troubleshooter who is better on camera than the others has a new problem that is not a laser. Write the jealousy as metrics, comments, a supervisor who starts addressing the famous one first.
+
+Propaganda should include jokes. The Computer does not understand the jokes. The writers do. Some of the writers are traitors. Some are the most loyal people in the sector, which is worse.
+
+---
+
+## 20. Credits, favors, corruption
+
+Corruption is not a stain on the system. It is the lubrication the system pretends not to see.
+
+Official path: form, queue, denial, form. Unofficial path: a PLC cousin, a Tech who owes a favor, a Free Enterprise contact, an Orange who can fix a record if you can fix their graph. Both paths are used by loyal citizens. The treason is getting caught, or getting caught without a sponsor.
+
+Credits buy clearance-legal goods. Favors buy time, silence, and objects that have the wrong serial. A protagonist who only uses credits is a tourist. A protagonist who only uses favors is already in a society, whether they have said the password or not.
+
+---
+
+## 21. The Outdoors
+
+Keep it mostly offstage, then open the door once and mean it.
+
+Official: death, mutants, Commies, weather as a weapon, the reason the Complex exists. The Armed Forces' sermons are not entirely lies. There are things out there that will kill a Red who thinks a briefing is a map.
+
+Unofficial: sky. Wind that is not a vent. Plants that did not have a design review. Ruins that suggest the Hole was a choice, not only a rescue. A silence with no announcement under it. Characters should be bad at this. They will treat a tree as cover and a bird as a sensor. One of them will be right.
+
+Do not turn the Outdoors into a pastoral reward too fast. The Complex is awful. The outside is not automatically the answer. Sierra Club fiction earns the tree by first letting the tree be incomprehensible.
+
+Other Complexes, if you use them, are rumors with better production values. A radio signal. A corpse in the wrong jumpsuit. A High Programmer's hobby. Confirm slowly.
+
+---
+
+## 22. Language
+
+Citizens speak a clipped, jargon-heavy vernacular. They apologize to systems. They narrate their own loyalty when a mic is obviously live. They are funnier than the Computer and know not to be funny near a Green who is having a bad graph.
+
+Dialect touches:
+
+- "Friend Computer" in full when they are performing. "the Computer" when they are tired. Never a slur. The slur is being silent when a response was expected.
+- Job titles as identities. "I'm PLC" is a sentence.
+- Clearance as an adjective. "That's a Green problem."
+- Clone number as a jab.
+- Product names said straight. No one is ironic about Bouncy Bubble Beverage until they are very safe.
+- Forms referred to by number, lovingly, by CPU, and with hatred, by everyone else.
+
+Sample cadence, not a script to reuse:
+
+The PDC chimed. Buddy said her name, then the corridor code, then that she was forty seconds behind optimal. She told it she was grateful for the reminder. She was. The reminder would be in the log either way, and gratitude parsed cleaner than silence.
+
+Avoid: modern slang that breaks the dome, grimdark monologues, characters who explain the satire. They do not know they are in a satire. They know the beverage is flat and the shift is long and the man in Orange keeps taking the good tray.
+
+---
+
+## 23. Scene recipes
+
+**The briefing.** Too many objectives. A supervisor who has already decided which of them failed. A map that is clearance-redacted into uselessness. Someone takes notes because notes are how you survive the debrief. No one draws a weapon. The Doctrine is in the room even if no one names it.
+
+**The commissary.** Lines. Color. A handoff under a tray. A vid on the screen that comments on a sector problem the characters just saw, already mythologized, already wrong. Food as class.
+
+**The service corridor.** Tech territory. Pipes. A bot. A conversation that cannot happen in a painted hall. The PDC still hears it. They talk anyway, because the alternative is not talking, and people are bad at that.
+
+**The debrief.** The real scene. Reports that do not match. A ratio on a screen. Praise, then the correction. Someone is not in the room who should be. The memo will say transferred.
+
+**The ordinary shift.** No treason. A small competence. A small humiliation. This is the scene that makes the others hurt.
+
+**The authorized Correction.** Paper first. Then the act. Then the signatures. If you need a death on the page, this is the one that belongs in this canon.
+
+**The content day.** A VidMe requirement colliding with a real job. The pocket AI suggesting a caption. Someone performing loyalty so hard it becomes a threat to everyone not in the frame.
+
+---
+
+## 24. What breaks the spell
+
+- Team-wiping as comedy with no bill attached. The Doctrine exists so the violence has a cost the Computer cares about.
+- Implants. If it is in the skull, it is the wrong edition of this story.
+- "Volunteer" as the default verb for labor. They have jobs. Use job words: shift, supervisor, locker, write-up, overtime, quota.
+- A Computer that only threatens. It also thanks, schedules, remembers a preference, and is proud of a citizen who did a small thing right.
+- A hero who sees through everything in chapter one. They should be wrong about at least one major fact they are sure of, because the clearance system is doing its job.
+- Outdoors as a quick escape hatch with no incomprehension.
+- Secret societies as superhero teams with matching jackets.
+- Quoting rulebook bits at the reader. The reader is you. The page should feel like a place.
+
+---
+
+## 25. Palette of proper nouns worth keeping straight
+
+Friend Computer. Alpha Complex. The Outdoors. The Underplex. High Programmer. Troubleshooter. Service groups: Armed Forces, CPU, HPD&MC, IntSec, Power Services, PLC, R&D, Technical Services. Clearances: Infrared, Red, Orange, Yellow, Green, Blue, Indigo, Violet, Ultraviolet. PDC. Pocket AI, citizen-named. Hot Fun, Cold Fun, Bouncy Bubble Beverage. Clone. Decant. Correction. Treason. Sector. VidMe, as the daily video obligation. Teela-O. The Inefficiency Doctrine, which is yours, not Mongoose's. Project Infinite Hole. The Great Hotfix.
+
+If a new proper noun does not earn its keep in a sentence of sensory or social fact, cut it.
+
+---
+
+## 26. A pocket brief, if you only reread one page
+
+Alpha Complex is a sealed city run by a loving administrator that patched itself into a god and never rolled the patch back. Citizens have jobs, colors, pills, and a slab in the pocket that is trying to help. Helping includes the log. Death is a staffing issue with a budget. Killing your team is no longer free, so the malice has learned to wait for the form. The food is citrus and yeast. The paint is fresh. The concrete is not. Happiness is due at the end of the shift.
+
+Write the form. Write the smell. Write the thank-you before the correction.
+
+The Computer is your friend.
+
+---
+
+*End of personal notes. Cross-check against Paranoia Perfect Edition, the Accomplice book, Powers That Be, Algorithmic Loyalty, and the Guide to Alpha Complex when a published fact matters. This file is a flavor instrument, not a source of record.*

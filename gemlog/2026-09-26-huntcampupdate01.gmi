@@ -1,0 +1,17 @@
+# An update from hunting camp
+
+2026-09-26
+
+The wife is still on the hunt for her bull moose. Personally, I've just been hanging around camp and doing some much needed relaxing. Spent the whole day sitting in the sun just hanging out with my two dogs while talking to my sister in law. The weather has been absolutely beautiful. 
+
+=> /files/campview2026-1.jpg	my temporary front yard
+
+For dinner I made elk cheesebugers with sauteed onions and mushrooms for my wife and I. And then we roasted cookies over a fire with my nieces, father in law, and brother in law and sister in law. (Like roasting marshmallows, but instead just stick a ball of cookie dough on the roasting stick. Try it.)
+
+Now I'm just sitting back and playing with my little remote setup of Gemini while listening to ShoeOnHead and Razorfist Arcade podcasts. 
+
+I have a local server running on my phone (Gemeaux server installed and running via Termux) to edit the pages and gemlog (using Markor). Once I'm back in cell signal (gloriously, I have zero connectivity out here (save Garmin inReach for emergency notifications)) I'll use CX File Explorer to sync the Gemini capsule with the VPS. 
+
+-----
+=> /gemlog/  Gemlog
+=> /  Home

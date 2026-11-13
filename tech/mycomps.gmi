@@ -1,0 +1,71 @@
+# My Computers & Hardware 🖥️
+
+## My Main Gaming PC 🕹️
+```
+/////////////////  /////////////////    XXXXXX@winblows11
+/////////////////  /////////////////    ----------------
+/////////////////  /////////////////    OS: Windows 11 Home (26H2) x86_64
+/////////////////  /////////////////    Host: MS-7E26 (1.0)
+/////////////////  /////////////////    Kernel: WIN32_NT 10.0.26300.9711
+/////////////////  /////////////////    Uptime: 9 days, 1 hour, 51 mins
+/////////////////  /////////////////    Packages: 22 (choco)
+/////////////////  /////////////////    Shell: Windows PowerShell 5.1.26100.8875
+                                        Display (LG ULTRAGEAR): 2560x1440 in 31", 180 Hz [External]
+/////////////////  /////////////////    Window Manager: Desktop Window Manager 10.0.26100.9549
+/////////////////  /////////////////    WM Theme: Custom - Orange dark (System: Dark, Apps: Dark)
+/////////////////  /////////////////    Theme: Fluent
+/////////////////  /////////////////    Icons: Recycle Bin
+/////////////////  /////////////////    Font: Segoe UI (12pt) [Caption / Menu / Message / Status]
+/////////////////  /////////////////    Cursor: Windows Default (32px)
+/////////////////  /////////////////    Terminal: Windows Terminal 1.24.12741.0
+/////////////////  /////////////////    Terminal Font: Cascadia Mono (12pt)
+                                        CPU: AMD Ryzen 5 7600X (12) @ 5.45 GHz
+                                        GPU 1: AMD Radeon(TM) Graphics (485.86 MiB) [Integrated]
+                                        GPU 2: NVIDIA GeForce RTX 4060 Ti @ 3.12 GHz (15.73 GiB) [Discrete]
+                                        Memory: 14.93 GiB / 63.10 GiB (24%)
+                                        Swap: 169.35 MiB / 4.00 GiB (4%)
+                                        Disk (C:\): 286.93 GiB / 1.82 TiB (15%) - NTFS
+                                        Disk (D:\): 685.86 GiB / 1.82 TiB (37%) - NTFS
+                                        Disk (E:\): 223.12 GiB / 931.50 GiB (24%) - NTFS
+                                        Disk (F:\): 1.13 TiB / 1.82 TiB (62%) - NTFS
+                                        Disk (G:\): 857.45 GiB / 1.82 TiB (46%) - NTFS
+                                        Disk (N:\): 573.18 GiB / 4.55 TiB (12%) - NTFS
+                                        Local IP (Ethernet): XXXXXXX
+                                        Locale: en_US.CP437
+```
+
+
+
+## My Linux Desktop Machine 🐧
+
+```   ..,,;;;::;,..                    XXXXXXX@LCOS
+           `':ddd;:,.               ----------
+                 `'dPPd:,.          OS: LCOS 0.8 x86_64
+                     `:b$$b`.       Kernel: Linux 7.2.6-lunduke
+                        'P$$$d`     Uptime: 1 day, 2 hours, 21 mins
+                         .$$$$$`    Packages: 1215 (dpkg)
+                         ;$$$$$P    Shell: bash 5.2.37
+                      .:P$$$$$$`    Display (LG ULTRAGEAR): 2560x1440 @ 144 Hz in 31" [External]
+                  .,:b$$$$$$$;'     DE: Xfce4 4.20
+             .,:dP$$$$$$$$b:'       WM: Xfwm4 (X11)
+      .,:;db$$$$$$$$$$Pd'`          WM Theme: Clearlooks
+ ,db$$$$$$$$$$$$$$b:'`              Theme: Clearlooks-Phenix [GTK2/3/4]
+:$$$$$$$$$$$$b:'`                   Icons: elementary-xfce [GTK2/3/4]
+ `$$$$$bd:''`                       Font: Sans (10pt) [GTK2/3/4]
+   `'''`                            Cursor: Adwaita
+                                    Terminal: xfce4-terminal 1.1.4
+                                    CPU: Intel(R) Core(TM) i7-7700 (8) @ 4.20 GHz
+                                    GPU: Intel HD Graphics 630 @ 1.15 GHz [Integrated]
+                                    Memory: 1.09 GiB / 31.22 GiB (3%)
+                                    Swap: 0 B / 512.00 MiB (0%)
+                                    Disk (/): 6.13 GiB / 457.09 GiB (1%) - ext4
+                                    Local IP (eth0): XXXXXXX
+                                    Locale: en_US.UTF-8
+
+                                                            
+                                                            ```
+
+-----
+=> ..  Up
+=> / Home
+=> /gemlog/ Gemlog

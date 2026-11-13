@@ -1,0 +1,44 @@
+# My Gemini Link Library
+
+A Friend Computer approved list of capsules I've run into across Geminispace. Well, mostly approved. 👍🔗
+
+### Aggregators & Search 🔍 
+
+=> gemini://gemini.circumlunar.space/capcom/ Capcom
+=> gemini://cosmos.skyjake.fi/ Cosmos
+=> gemini://calcuode.com/gmisub-aggregate.gmi gmisub aggregate
+
+=> gemini://cdg.thegonz.net/ Collaborative Directory of Geminispace
+
+=> gemini://kennedy.gemi.dev/ Kennedy Search
+=> gemini://tlgs.one/ Totally Legit Gemini Search
+
+
+### Gemini Links 🚀 
+
+=> gemini://astrobotany.mozz.us	Astrobotany
+=> gemini://astrobotany.mozz.us/public/c25bfbd3fd86411f8e9ed9653fadcfa1	Astrobotany - my plants
+=> gemini://bbs.geminispace.org/	BBS
+=> gemini://cosmic.voyage	Cosmic Voyage
+=> gemini://geminiprotocol.net/docs/cheatsheet.gmi	Gemtext Cheat Sheet 
+=> gemini://gemi.dev/cgi-bin/wp.cgi/welcome Gemipedia
+=> gemini://station.martinrue.com/	station
+=> gemini://zaibatsu.circumlunar.space/	Circumlunar.space
+=> gemini://cdg.thegonz.net/    Collaborative Directory of Geminispace
+=> gemini://mozz.us/	Mozz.us
+=> gemini://skyjake.fi/       skyjake's Capsule
+=> gemini://gemini.cyberbot.space/smolzine/ smolzine
+=> gemini://zaibatsu.circumlunar.space/~solderpunk/	Soldpunk
+=> gemini://sdf.org/	SDF.org
+=> gemini://gemini.clehaxze.tw/     Martin's capsule
+=> gemini://widdergem.verja.net/index.gmi Widdershins
+
+
+### Gopher Links 🕳️ 
+
+=> gopher://magical.fish:70/	Magical Fish
+
+-----
+=> ..  Up
+=> / Home
+=> /gemlog/ Gemlog

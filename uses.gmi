@@ -1,0 +1,16 @@
+# Colophon/Capsule Hardware and Setup 🔧
+
+## Current Setup 🖥️
+
+This Geminispace is running on a Debian VPS with a  Gopherspace on port 70 that is running on Gophernicus while gmid is serving up the Geminispace on port 1965.
+
+If I'm on one of my main machines (a Linux box running LCOS and a Windows 11 gaming rig that I also use for retro emulators and VMs) I usually edit the capsule in Geany and upload any changes with Filezilla. 
+ 
+But I prefer to edit it on my phone, where I use a combination of Markor for editing and CX File Explorer using an SFTP connection to sync the changes directly or to upload the changes when I get back to cell signal (there's a lot of places in Wyoming without cell signal). 
+
+> I don't plan on having much of an HTTP site, really. Maybe a proxy to serve up the Gemini and Gopher sites for those who won't install Lagrange for some reason. But from now on Geminispace is my home.
+
+-----
+=> ..  Up
+=> / Home
+=> /gemlog/ Gemlog

@@ -1,0 +1,27 @@
+# The Paranoia RPG!
+
+```
+ ____                             _       
+|  _ \ __ _ _ __ __ _ _ __   ___ (_) __ _ 
+| |_) / _` | '__/ _` | '_ \ / _ \| |/ _` |
+|  __/ (_| | | | (_| | | | | (_) | | (_| |
+|_|   \__,_|_|  \__,_|_| |_|\___/|_|\__,_|
+```
+
+Only the GREATEST RPG ever made! Friend Computer said so! So it HAS to be true! And remember, citizen: HAPPINESS IS MANDATORY! 😃
+
+"Paranoia is a dystopian science-fiction tabletop role-playing game originally designed and written by Greg Costikyan, Dan Gelber, and Eric Goldberg, and first published in 1984 by West End Games. Since 2004 the game has been published under license by Mongoose Publishing. The game won the Origins Award for Best Roleplaying Rules of 1984 and was inducted into the Origins Awards Hall of Fame in 2007. Paranoia is notable among tabletop games for being more competitive than co-operative, with players encouraged to betray one another for their own interests, as well as for keeping a light-hearted, tongue in cheek tone despite its dystopian setting." (from wikipedia)
+
+Guess what?!? MORE COMING SOON!
+
+## Writings on the Paranoia RPG ✏️
+=> ./p-essay/paranoia-thoughts-001.gmi	Paranoia Thoughts 001
+=> ./p-article/alpha-complex-ficiton-bible.gmi Alpha Complex Fiction Bible
+
+## My Paranoia RPG Based Fiction 📖
+=> ./p-fiction/paranoia-fiction-001.gmi	Paranoia Fiction 001
+
+-----
+=> ..  Up
+=> / Home
+=> /gemlog/ Gemlog

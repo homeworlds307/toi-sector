@@ -1,0 +1,12 @@
+# Retro Tech
+
+Information and files about and for the C64, namely the C64 Ultimate, but for emulators and actual sweet, sweet old school C64 systems. If you have an old one ... I'm super jelly.
+
+I'll also be talking more about Gopher, Gemini, the smallnet (and why we NEED it!), DOS (SvarDOS especially), and all the good old tech that I miss.
+
+=> mycomps.gmi	My Current Machines
+
+-----
+=> ..  Up
+=> / Home
+=> /gemlog/ Gemlog

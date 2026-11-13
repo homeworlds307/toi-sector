@@ -1,0 +1,38 @@
+# Welcome to TOI Sector, citizen! 🖥️
+
+
+```TOI Sector wordmark
+ _____ ___ ___   ____            _             
+|_   _/ _ \_ _| / ___|  ___  ___| |_ ___  _ __ 
+  | || | | | |  \___ \ / _ \/ __| __/ _ \| '__|
+  | || |_| | |   ___) |  __/ (__| || (_) | |   
+  |_| \___/___| |____/ \___|\___|\__\___/|_|   
+
+```
+
+Grab a steaming mug of HappyKaff from the vendobot and relax a while! ☕
+
+
+=> /about.gmi  About TOI Sector
+=> /now.gmi	What I'm currently up to
+=> /uses.gmi	Capsule Hardware & Setup 
+=> /garden.gmi	The Link Garden
+=> /gemlog/  Gemlog
+=> /sign.gmi	ASCII Art Gallery
+
+-----
+=> /paranoia/ Paranoia RPG Stuff
+=> /silentabyss/ Silent Abyss Stuff
+=> /writings/	Writings
+=> /tech/	Tech Bench
+
+-----
+The TOI Sector comms closet (gopherhole):
+=> gopher://absentmuse.com
+
+-----
+⚠️ ! !WARNING! ! ⚠️
+This site is NOT controlled by Zuckerborg!
+Unplug from the matrix, man. 🔌
+Reject the hivemind  and think for 
+yourself while you still can. ⏰

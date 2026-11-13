@@ -1,0 +1,14 @@
+# Lights on
+
+2026-09-09
+
+Gopher's been living here a day. Gemini took the scenic route: wrong git tree, a unit file in the wrong hallway, and a privsep tantrum until we pinned 2.1.1 and bundled libtls.
+
+It's up now. Lagrange can see the porch. So can gg.
+
+This capsule starts small on purpose. One operator. An about page. A gemlog. The gopher hole stays the virtual attic; this side is the same house with a lock that actually speaks TLS.
+
+More later. The lamp's lit.
+
+=> /gemlog/  Gemlog
+=> /  Home

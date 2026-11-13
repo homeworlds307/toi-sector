@@ -1,0 +1,23 @@
+# A Brief Reprieve 
+
+2026-10-12
+
+Heading home for another 4.5 day work week before returning to the mountains. We're going to have to process the neck and rib meat so there won't be a huge amount of time to relax and geek out. However, I'm mostly giving up on changing and maintaining my sleep schedule for the early mornings so there'll be some time. I'm not going to relent entirely on that battlefront, but a little. (As you can probably tell the sleep deprivation is beginning to kick in. 
+
+After faceplanting off a horse early season, I goofed yesterday evening and fell off the feed trailer. It rained all day and the deck was wet and the hay bails were heavy. I went to knee one into the back of the side-by-side while holding it and my gloves got stuck in the string, I think. Not entirely sure what happened. I just know that the hay bail and I both only made it half way to the bed before my head found the side of the side-by-side and my knee found the iron edge of the trailer. As anyone who has ever spent a significant amount of time working around heavy machinery made of iron and steel can tell you.. iron and/or steel don't give when you bang your body into them. Not even slightly. LoL. Anyway, my wife has gotten to play nurse tending to the gash a few inches below my knee cap. It was a funny conversation at first:
+
+> Me: I might have fell off the feed trailer.
+> Her: Did you hurt yourself?
+> Me: Probably. 
+> Her: :: sigh :: (as she kept walking back out of the horse corral)
+
+I love her. She's the best. I was still giggling at that exchange this morning. 
+
+Got a whole list of items to look into and get done once I'm back in (so-called) civilization. The main trigger that pushed me to throw up the gemini-space was the need for a gopherhole to use with the Commodore 64 Ultimate that Santa is hopefully bringing me this year. But I do so love the gemini protocol, servers, and clients. It really is how the web should be. At least for people's home sites. So, I'm going off on a quest to find an automagic way to convert my geminispace to gopherspace on the fly. Or see if there's a Gemini client for C64 yet. If there's not I might have to throw the problem at AI and see if that can be rectified. We'll see. 
+
+Deus vult. 
+
+
+-----
+=> /gemlog/  Gemlog
+=> /  Home
