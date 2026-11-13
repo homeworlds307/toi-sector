@@ -1,9 +1,10 @@
 # Gemlog
 
-=> 2026-11-12-myth-direction.gmi 2026-11-12 Myth-Direction.gmi
+=> 2026-11-13-github-fun.gmi 2026-11-13 Github Fun
+=> 2026-11-12-myth-direction.gmi 2026-11-12 Myth-Direction
 => 2026-10-12-brief-reprieve.gmi	2026-10-12 A Brief Reprieve
 => 2026-10-10-Moose-Obtained.gmi	2026-10-10 Moose Obtained
-=> /gemlog/2026-10-3-Horses-and-Hineys.gmi	2026-10-3 Horses and Hineys
+=> /gemlog/2026-10-03-Horses-and-Hineys.gmi	2026-10-03 Horses and Hineys
 => /gemlog/2026-09-26-huntcampupdate01.gmi	2026-09-26 Hunting Camp Update 01
 => /gemlog/2026-09-22-Major-Construction-Happened.gmi	2026-09-22 Major Construction Happened
 => /gemlog/2026-09-21-Horses-and-Masterminds.gmi	2026-09-21 Horses and Masterminds
