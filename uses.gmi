@@ -8,6 +8,10 @@ If I'm on one of my main machines (a Linux box running LCOS and a Windows 11 gam
  
 But I prefer to edit it on my phone, where I use a combination of Markor for editing and CX File Explorer using an SFTP connection to sync the changes directly or to upload the changes when I get back to cell signal (there's a lot of places in Wyoming without cell signal). 
 
+## UPDATE: 
+
+With a lot of help from Grok, I now have my GitHub repo set up so that I can edit my capsule from GitHub and it automagically publishes any changes directly and immediately to my capsule. This is nice for several reasons: it provides a singular editor, no need for having the files across multiple systems for edit, and no need to manually sync the changes. I can still fallback to the old manual method if need be.
+
 > I don't plan on having much of an HTTP site, really. Maybe a proxy to serve up the Gemini and Gopher sites for those who won't install Lagrange for some reason. But from now on Geminispace is my home.
 
 -----
