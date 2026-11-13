@@ -25,7 +25,7 @@ A Friend Computer approved list of capsules I've run into across Geminispace. We
 => gemini://mozz.us/	Mozz.us
 => gemini://skyjake.fi/       skyjake's Capsule
 => gemini://gemini.cyberbot.space/smolzine/ smolzine
-=> gemini://zaibatsu.circumlunar.space/~solderpunk/	Soldpunk
+=> gemini://zaibatsu.circumlunar.space/~solderpunk/	Solderpunk
 => gemini://sdf.org/	SDF.org
 => gemini://gemini.clehaxze.tw/     Martin's capsule
 => gemini://widdergem.verja.net/index.gmi Widdershins
