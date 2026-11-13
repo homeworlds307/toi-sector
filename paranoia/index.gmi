@@ -21,6 +21,9 @@ Guess what?!? MORE COMING SOON!
 ## My Paranoia RPG Based Fiction 📖
 => ./p-fiction/paranoia-fiction-001.gmi	Paranoia Fiction 001
 
+## Paranoia Books I Own
+=> booksowned.gmi Books Owned
+
 -----
 => ..  Up
 => / Home
