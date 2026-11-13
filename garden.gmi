@@ -7,12 +7,9 @@ A Friend Computer approved list of capsules I've run into across Geminispace. We
 => gemini://gemini.circumlunar.space/capcom/ Capcom
 => gemini://cosmos.skyjake.fi/ Cosmos
 => gemini://calcuode.com/gmisub-aggregate.gmi gmisub aggregate
-
 => gemini://cdg.thegonz.net/ Collaborative Directory of Geminispace
-
 => gemini://kennedy.gemi.dev/ Kennedy Search
 => gemini://tlgs.one/ Totally Legit Gemini Search
-
 
 ### Gemini Links 🚀 
 
@@ -33,12 +30,11 @@ A Friend Computer approved list of capsules I've run into across Geminispace. We
 => gemini://gemini.clehaxze.tw/     Martin's capsule
 => gemini://widdergem.verja.net/index.gmi Widdershins
 
-
 ### Gopher Links 🕳️ 
 
+=> gopher://absentmuse.com  TOI Sector Comms Closet
 => gopher://magical.fish:70/	Magical Fish
 
 -----
-=> ..  Up
 => / Home
 => /gemlog/ Gemlog
