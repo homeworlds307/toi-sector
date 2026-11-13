@@ -1,4 +1,10 @@
-# GitHub Fun
+# GitHub Fun 🧰
 
 ## 2026-11-13
 
+Spent some painful time working to streamline my process for updating and editing this capsule. With a lot of help from Grok, actually. I now have a mirror of this capsule on GitHub, which allows me to edit it live and automatically commit the changes to the VPS upon .. well, commit. Pretty cool. Hopefully it all holds. It'll definitely keep me from being quite so fast to wipe the server for tinkering purposes. 🤣 It was only painful because I try to do as much of this on my phone (Pixel 9 Pro XL) attached to a 14 inch lapdock. I'm sure there's got to be a great app somewhere out there that lets you ssh into a server and cli everything, but I haven't found it yet. Working on it though.
+
+-----
+=> ..  Up
+=> / Home
+=> /gemlog/ Gemlog
