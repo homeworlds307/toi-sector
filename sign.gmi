@@ -1,5 +1,30 @@
 # ASCII Art Gallery
 
+```ASCII art of a Paranoia PDC handheld device
+   .-------------------------.
+  /  ( )   FRIEND COMPUTER  ( )\
+ |  .-----------------------. |
+ |  | PDC v4.2 [RED]        | |
+ |  |-----------------------| |
+ |  | CITIZEN: TRUSTED      | |
+ |  | HAPPINESS:  [#####  ] | |
+ |  | TREASON:    [#      ] | |
+ |  | MSG: Report to Sector | |
+ |  |   TOI for termination | |
+ |  |   ...er, promotion.   | |
+ |  '-----------------------' |
+ |   [F1] [F2] [F3] [F4]      |
+ |  .---.            .---.    |
+ |  | ^ |   [ OK ]   | ! |    |
+ |  '---'            '---'    |
+ |   ( 1 )( 2 )( 3 )( 4 )     |
+ |   ( 5 )( 6 )( 7 )( 8 )     |
+ |   ( 9 )( 0 )( * )( # )     |
+ |                            |
+ |  HAPPINESS IS MANDATORY    |
+  \__________________________/
+```
+
 ```chibi templar                                                                                                    
                                                                                                     
                                                                                                     
