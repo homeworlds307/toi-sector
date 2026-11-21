@@ -1,7 +1,7 @@
 # My Computers & Hardware 🖥️
 
 ## Commodore 64 Ultimate
-COMING SOON! No, really! My beautiful wifey got me one for Christmas, but I have to wait to open it! I mean, technically it's here. XD 
+COMING SOON! No, really! My beautiful wifey got me one for Christmas, but I have to wait to open it! I mean, technically it's here. XD (The 'fastfetch' output for the C64U is a fake rendition, with stats as close to real as possible, created by a Grok bot (Clanker-64 I shall call her!)
 ```
          ████████████          hotel3@c64u
       ███████████████          -----------
