@@ -21,10 +21,9 @@ Grab a steaming mug of HappyKaff from the vendobot and relax a while! ☕
 => /sign.gmi	ASCII Art Gallery
 
 -----
-=> /paranoia/ Paranoia RPG Stuff
-=> /silentabyss/ Silent Abyss Stuff
-=> /writings/	Writings
+=> /rpgs/index.gmi
 => /tech/	Tech Bench
+=> /writings/	Writings
 
 -----
 The TOI Sector comms closet (gopherhole):
