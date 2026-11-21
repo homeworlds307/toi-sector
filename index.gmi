@@ -21,7 +21,7 @@ Grab a steaming mug of HappyKaff from the vendobot and relax a while! ☕
 => /sign.gmi	ASCII Art Gallery
 
 -----
-=> /rpgs/index.gmi
+=> /rpgs/index.gmi Tabletop Roleplaying Games
 => /tech/	Tech Bench
 => /writings/	Writings
 
