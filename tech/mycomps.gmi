@@ -26,7 +26,8 @@ COMING SOON! No, really! My beautiful wifey got me one for Christmas, but I have
                                Peripherals: 1351 mouse, joystick port 2
                                Locale: en_US.PETSCII
 
-                               ████████████████████████ ```
+                               ████████████████████████ 
+```
 
 
 
