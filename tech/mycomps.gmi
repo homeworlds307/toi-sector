@@ -29,7 +29,9 @@ COMING SOON! No, really! My beautiful wifey got me one for Christmas, but I have
                                ████████████████████████ ```
 
 
+
 ## My Main Gaming PC 🕹️
+
 ```
 /////////////////  /////////////////    XXXXXX@winblows11
 /////////////////  /////////////////    ----------------
@@ -67,7 +69,8 @@ COMING SOON! No, really! My beautiful wifey got me one for Christmas, but I have
 
 ## My Linux Desktop Machine 🐧
 
-```   ..,,;;;::;,..                    XXXXXXX@LCOS
+```
+..,,;;;::;,..                    XXXXXXX@LCOS
            `':ddd;:,.               ----------
                  `'dPPd:,.          OS: LCOS 0.8 x86_64
                      `:b$$b`.       Kernel: Linux 7.2.6-lunduke
