@@ -1,1 +1,11 @@
-placeholder for rpg shelf
+# Tabletop Roleplaying Games
+
+One of the big subjects here at TOI is tabletop roleplaying games. I like a wide variety of genres for the most part, but mostly Sci-Fi, Fantasy (with a preference for grimdark and grimbright (yeah, that's a thing)), and "Silly" settings (i.e. the little known Ninja Burger RPGs and the "zap" flavor of the Paranoia RPG). 
+
+
+
+=> ./silentabyss/index.gmi	The Silent Abyss RPG STUFF!
+=> ./paranoia/index.gmi	Paranoia RPG STUFF!
+
+-----
+=> /  Home
